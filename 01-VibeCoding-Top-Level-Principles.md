@@ -1,6 +1,6 @@
 # Vibe Coding — Top-Level Principles
 
-> Author: Hou Yanmeng | Version: v1.0 | 2025-11  
+> Author: seaman.player | Version: v1.0 | 2025-11  
 > Vibe Coding: Describe intent in natural language, let AI generate code, while engineers focus on architecture, validation, and quality.
 
 ---

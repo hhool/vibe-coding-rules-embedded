@@ -1,6 +1,6 @@
 # Embedded AI-Assisted Development Prompt Standards
 
-> Version: v1.0 | Maintainer: Hou Yanmeng | Updated: 2025-11  
+> Version: v1.0 | Maintainer: seaman.player | Updated: 2025-11  
 > Applicable Tools: Cursor IDE / GitHub Copilot / Claude API / ChatGPT / DeepSeek  
 > Applicable Domains: Embedded Linux, RTOS, Audio/Video SDK, Driver Development, Cross-platform Porting
 

@@ -35,3 +35,7 @@ Contributions based on real project practice are welcome:
 - New scenario-based prompt templates
 - Anti-patterns and risk cases
 - Tool configuration best practices
+
+## License
+
+This project is licensed under the MIT License. See [LICENSE](LICENSE).
